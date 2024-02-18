@@ -2,6 +2,7 @@ Leetcode https://leetcode.com/problemset/all/
 
 Task #	Tasks Name	Level	Tags	Link
 1	Two Sum	Easy		https://leetcode.com/problems/two-sum/
+
 2	Palindrome Number	Easy		https://leetcode.com/problems/palindrome-number/
 3	Roman to Integer	Easy		https://leetcode.com/problems/roman-to-integer/
 4	Longest Common Prefix	Easy		https://leetcode.com/problems/longest-common-prefix/
